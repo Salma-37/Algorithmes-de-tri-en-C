@@ -8,7 +8,7 @@
 #define TAILLE 100
 int T[TAILLE_MAX];
 int N;
-//Tri à bulles: (complxité O(n^2))
+//Tri à bulles:
 void tri_a_bulle(int T[]){
     int i,j,aide;
     bool temoin;
